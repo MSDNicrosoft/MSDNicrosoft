@@ -66,7 +66,6 @@ I came up with this name on a whim one day.
 
 ### Other
 
-[![](https://img.shields.io/badge/Nginx_Proxy_Manager-F15833?style=for-the-badge&logo=nginxproxymanager&labelColor=black)](https://nginxproxymanager.com)
 [![](https://img.shields.io/badge/Uptime_Kuma-68E094?style=for-the-badge&logo=uptimekuma&labelColor=black)](https://github.com/louislam/uptime-kuma)
 [![](https://img.shields.io/badge/Portainer-0BA5EC?style=for-the-badge&logo=portainer&labelColor=black)](http://portainer.io)
 [![](https://img.shields.io/badge/Sentry-5A5361?style=for-the-badge&logo=sentry&labelColor=black)](https://sentry.io)
