@@ -19,6 +19,8 @@ I came up with this name on a whim one day.
 - Constantly learning new things
 - Occasionally write [blog posts](https://blog.msdnicrosoft.work)
 
+[See something weird](https://github.com/MSDNicrosoft/MSDNicrosoft/blob/master/Declaration.md)
+
 ## Currently learning / reading
 
 - [x] [![](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&&labelColor=black)](https://python.org)
