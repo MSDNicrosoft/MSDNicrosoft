@@ -12,7 +12,7 @@
 I came up with this name on a whim one day.
 
 <a href="#">
-  <img align="right" src="https://github-status.msdnicrosoft.work/api?username=MSDNicrosoft&show_icons=true&include_all_commits=true&count_private=true">
+  <img align="right" src="https://github-stats.msdnicrosoft.work/api?username=MSDNicrosoft&show_icons=true&include_all_commits=true&count_private=true">
 </a>
 
 - Currently studying at a senior high school in Jiangsu, China
