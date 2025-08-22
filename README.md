@@ -36,7 +36,7 @@ I came up with this name on a whim one day.
 - [ ] `Computer Organization and Architecture: Themes and Variations`
 
 <a href="#">
-  <img align="right" src="https://github-stats.msdnicrosoft.work/api/top-langs/?username=MSDNicrosoft&layout=compact&hide=javascript,typescript,vue,css,stylus,html,svelte,ejs,batchfile,scss,shell">
+  <img align="right" src="https://github-stats.msdnicrosoft.work/api/top-langs/?username=MSDNicrosoft&layout=compact&hide=javascript,typescript,css,stylus,html,svelte,ejs,batchfile,scss,shell">
 </a>
 
 ## What I am using / playing
