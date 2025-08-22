@@ -85,25 +85,4 @@ I came up with this name on a whim one day.
 [![](https://img.shields.io/badge/Minecraft-3C8527?style=for-the-badge&logo=minecraft&labelColor=black)](https://minecraft.net)
 [![](https://img.shields.io/badge/osu!-EF66A3?style=for-the-badge&logo=osu&labelColor=black)](https://osu.ppy.sh)
 
-## My favourites
-
-### Songs
-
-<details>
-
-- [最忧解](https://www.bilibili.com/video/BV1xd4y1Q7JH)
-- [车窗相册](https://www.bilibili.com/video/BV1j8411A794)
-- [梦语](https://www.bilibili.com/video/BV1vc411W7AT)
-- [末世歌者](https://www.bilibili.com/video/BV1jG4y1C7uv)
-- [∞ TIMEs](https://www.bilibili.com/video/BV16e4y1B7Ct)
-- [暧昧 Philosopher](https://www.bilibili.com/video/BV1re4y1H7yA)
-- [目光海](https://www.bilibili.com/video/BV1Y7411x7CY)
-- [老街北](https://www.bilibili.com/video/BV1K4411A7Yc)
-- [倒转四十六亿年](https://www.bilibili.com/video/BV16g411i7Ry)
-- [我和我的猫](https://www.bilibili.com/video/BV1Bg411z7Lh)
-- [夏日降雨禁令](https://www.bilibili.com/video/BV1UB4y1r7tp)
-- [万物与我同归于寂](https://www.bilibili.com/video/BV1AF411j7v3)
-- [积雪](https://www.bilibili.com/video/BV1A54y1Y73b)
-- [偏心率](https://www.bilibili.com/video/BV1bB4y1r72f)
-
-</details>
+![](https://count.getloli.com/get/@MSDNicrosoft?theme=rule34)
