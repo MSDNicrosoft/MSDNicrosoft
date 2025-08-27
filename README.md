@@ -5,6 +5,9 @@
 以及，触摸云端的顽强。<br />
 那，就这么在一起，好不好。”***
 
+```math
+Life = \int_{birth}^{death} \frac{happiness}{time} \Delta time
+```
 
 # Hi, I'm MSDNicrosoft
 
