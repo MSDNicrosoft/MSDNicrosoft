@@ -18,7 +18,7 @@ I came up with this name on a whim one day.
   <img align="right" src="https://github-stats.msdnicrosoft.work/api?username=MSDNicrosoft&show_icons=true&include_all_commits=true&count_private=true">
 </a>
 
-- Currently studying at a senior high school in Jiangsu, China
+- Currently studying at a university in Jiangsu, China
 - Constantly learning new things
 - Occasionally write [blog posts](https://blog.msdnicrosoft.work)
 
